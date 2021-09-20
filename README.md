@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Python & Server Administration**
 
-- 📫 How to reach me **Discord: C A S S O#6273**
-
 - ⚡ Fun fact **I think I am a Dino**
 
 
