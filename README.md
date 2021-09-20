@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cassian</h1>
-<h3 align="center">A developer from Europa</h3>
+<h3 align="center">A developer & student from Europa</h3>
 
 - 🔭 I’m currently working on **Forum Code Structures & ASP.NET Core Projects**
 
