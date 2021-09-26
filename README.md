@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Forum Code Structures & ASP.NET Core Projects**
 
-- 🌱 I’m currently learning **C#**
-
 - 👨‍💻 All of my projects are available at [https://github.com/cassi-dev?tab=repositories](https://github.com/cassi-dev?tab=repositories)
 
 - 💬 Ask me about **Python & Server Administration**
