@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cassian</h1>
 <h3 align="center">A developer & student from Europe</h3>
 
-- 🔭 I’m currently working on **Forum Code Structures & ASP.NET Core Projects**
+- 🔭 I’m currently working on **My Homepage**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cassi-dev?tab=repositories](https://github.com/cassi-dev?tab=repositories)
 
