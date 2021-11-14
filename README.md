@@ -14,8 +14,14 @@
 <p align="left">E-Mail: <a href="mailto:--">Mail</a></p>
 <hr>
 
-<h3 align="left">Tools and Languages:</h3>
+<h3 align="left">IDE, Tools and Languages:</h3>
 
+<code align="left">Eclipse IDE</code>
+<code align="left">IntelliJ IDEA</code>
+<code align="left">NetBeans IDE</code>
+<code align="left">Visual Studio 2022</code>
+<code align="left">Microsoft VS Code</code>
+<br><br>
 <code align="left">AWS</code>
 <code align="left">Blender</code>
 <code align="left">Bash</code>
