@@ -5,7 +5,7 @@
 <hr>
 
 <h3 align="left">My Projects:</h3>
-<p align="auto">Some of my projects that I have developed so in the course of my career. You can also see them on GitHub in the Repositories section. </p>
+<p align="auto">Some of my projects that I have developed so in the course of my career. You can also see them on GitHub in the <a href="https://github.com/cassi-dev?tab=repositories">Repositories</a> section. </p>
 <hr>
 
 <h3 align="left">Contact:</h3>
