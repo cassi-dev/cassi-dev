@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cassian</h1>
+<h3 align="center">Hi 👋, I'm Cassian</h3>
 
 <h2 align="left">About Me:</h2>
 <p align="auto">My name is Cassian Chroboczek, I am 16 years old. I live and study from Germany. In recent years I gained a lot of experience in the field of IT and in the development of various software. In addition, I am a fun-loving person and like to meet new people who are also interested in the same subject. </p>
