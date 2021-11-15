@@ -9,7 +9,7 @@
 <h2 align="left">Contact:</h2>
 <p align="auto">You can reach me at any time and directly via the headings listed below.</p>
 <p align="left">Discord: Cassian | DC#8320</p>
-<p align="left">E-Mail: <a href="mailto:--">Mail</a></p>
+<p align="left">E-Mail: <a href="mailto:cassian.chroboczek05@gmail.com">Mail</a></p>
 
 <h2 align="left">My Skills:</h2>
 <p align="left">I have listed everything here which IDE's I use and which tools / operating systems or programming languages I can handle.</p>
