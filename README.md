@@ -8,7 +8,6 @@
 
 <h2 align="left">Contact:</h2>
 <p align="auto">You can reach me at any time and directly via the headings listed below.</p>
-<p align="left">Discord: Cassian | DC#8320</p>
 <p align="left">E-Mail: <a href="mailto:cassian.chroboczek05@gmail.com">Mail</a></p>
 
 <h2 align="left">My Skills:</h2>
