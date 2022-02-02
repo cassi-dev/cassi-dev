@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cassian 👋</h1>
 
 <h3 align="left">Wer bin ich?</h3>
-<p align="left">Ich bin Cassian, bin 17 Jahre alt und entwickle gerne Web Anwendungen und interessiere mich gerne nebenbei für Cybersicherheit und Hacking.</p>
+<p align="left">Ich bin Cassian, bin 17 Jahre alt und entwickle gerne Web Anwendungen und interessiere mich nebenbei sehr für Cybersicherheit und Hacking.</p>
 
 <h3 align="left">Wie kann man mich erreichen?</h3>
 <p align="left"><a href="mailto:cassian.chroboczek05@gmail.com" target="blank">E-Mail</a></p>
@@ -11,7 +11,7 @@
 
 
 <h3 align="left">Who am I?</h3>
-<p align="left">I'm Cassian, I'm 17 years old and I like to develop web applications and I'm interested in cybersecurity and hacking on the side.</p>
+<p align="left">I'm Cassian, I'm 17 years old and I like to develop web applications and I'm very interested in cybersecurity and hacking on the side.</p>
 
 <h3 align="left">How you can reach me?</h3>
 <p align="left"><a href="mailto:cassian.chroboczek05@gmail.com" target="blank">E-Mail</a></p>
